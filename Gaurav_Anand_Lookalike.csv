@@ -1,0 +1,21 @@
+CustomerID,Lookalikes,Model Accuracy and Logic:
+C0001,"[('C0190', 0.99), ('C0048', 0.99), ('C0181', 0.98)]","1. The model calculates cosine similarity scores based on customer profiles, including their total spend, average spend, and product preferences."
+C0002,"[('C0097', 0.98), ('C0060', 0.96), ('C0088', 0.95)]",2. Customer data from transactions and preferences was normalized to ensure fair comparison during similarity calculations.
+C0003,"[('C0052', 1.0), ('C0035', 0.99), ('C0152', 0.99)]","3. Cosine similarity ensures that customers with similar purchasing behavior and product interests are closely matched, independent of magnitude."
+C0004,"[('C0122', 0.99), ('C0155', 0.98), ('C0165', 0.98)]",Quality of Recommendations and Similarity Scores:
+C0005,"[('C0159', 0.99), ('C0186', 0.99), ('C0146', 0.97)]",1. The recommendations highlight strong relationships between customers with similar spending patterns and product preferences.
+C0006,"[('C0117', 0.99), ('C0064', 0.98), ('C0171', 0.98)]","2. The similarity scores for the top 3 recommended customers are close to 1, indicating a high level of similarity."
+C0007,"[('C0092', 1.0), ('C0080', 0.98), ('C0110', 0.98)]",3. Recommendations for each customer have been verified to include diverse matches within the top similarity range.
+C0008,"[('C0113', 0.94), ('C0124', 0.92), ('C0127', 0.92)]",
+C0009,"[('C0033', 0.98), ('C0010', 0.98), ('C0198', 0.95)]",
+C0010,"[('C0009', 0.98), ('C0111', 0.97), ('C0151', 0.97)]",
+C0011,"[('C0137', 0.99), ('C0169', 0.98), ('C0126', 0.98)]",
+C0012,"[('C0113', 0.98), ('C0104', 0.98), ('C0195', 0.98)]",
+C0013,"[('C0099', 0.99), ('C0188', 0.97), ('C0108', 0.97)]",
+C0014,"[('C0060', 0.98), ('C0128', 0.97), ('C0097', 0.96)]",
+C0015,"[('C0132', 0.99), ('C0036', 0.98), ('C0073', 0.98)]",
+C0016,"[('C0183', 1.0), ('C0048', 0.99), ('C0107', 0.98)]",
+C0017,"[('C0075', 0.97), ('C0109', 0.96), ('C0156', 0.96)]",
+C0018,"[('C0064', 1.0), ('C0171', 1.0), ('C0168', 0.98)]",
+C0019,"[('C0094', 0.9), ('C0047', 0.89), ('C0049', 0.89)]",
+C0020,"[('C0061', 0.98), ('C0042', 0.94), ('C0176', 0.94)]",
